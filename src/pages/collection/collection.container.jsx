@@ -1,4 +1,4 @@
-import { connect, createSelectorHook } from 'react-redux';
+import { connect } from 'react-redux';
 import { compose } from 'redux';
 import { createStructuredSelector } from 'reselect';
 
