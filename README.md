@@ -31,7 +31,7 @@ https://crwn-clothing-nw.herokuapp.com/
 
 or 
 
-You can run the app locally by cloning the repo an running the command:
+You can run the app locally by cloning the repo and running the command:
 
   ### npm run dev
   
