@@ -31,9 +31,7 @@ https://crwn-clothing-nw.herokuapp.com/
 
 or 
 
-### Prerequisites 📋
-
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.\
+**Note**: You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
 
 You can run the app locally by cloning the repo and running the command:
 
