@@ -14,9 +14,9 @@ It has navigation and routing that takes us to different pages of categories of 
 
 Redux has been implemented for state management.The 'reselect' library has been used for memoization of the selectors.The 'redux-persist' libraby has been used to create the persisted version of the store to leverage the local storage for the cart reducer.The PersistGate helps to rehydrate the state when the app refreshes.
 
-Redux-Sagas has been implemented in order to handle the asynchronous actions in the redux implemetation.
+Redux-Sagas has been implemented in order to handle the asynchronous actions in the redux implementation.
 
-Backend server has been set up using express library and middlewares like cors, compression and express-sslify for enforcing HTTPS connection.The 'axios' library has been used on the frontend in order to send GET and POST request to the server.
+Backend server has been set up using express library and middlewares like cors, compression and express-sslify for enforcing HTTPS connection.The 'axios' library has been used on the frontend in order to send GET and POST request to the server.The app has been hosted on Heroku.
 
 **Performance optimisations**
 
