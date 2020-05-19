@@ -27,7 +27,7 @@ App has been made PWA compliant by adding serviceworker, https and updating mani
 Enzyme and snapshot testing has been performed for the app.
 
 You can view the app through the link:
-https://github.com/facebook/create-react-app
+https://crwn-clothing-nw.herokuapp.com/
 
 or 
 
